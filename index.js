@@ -35,4 +35,10 @@ function removeLastKitten(){
   newarray.slice(-1)
   return newarray
 }
+function removeLastKitten(){
+  var newarray = kittens;
+  newarray.slice(-1)
+  return newarray
+}
+
 
